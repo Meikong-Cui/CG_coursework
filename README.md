@@ -2,6 +2,9 @@
 
 This coursework is a c++ renderer, which support not only rasterising and ray-tracing, but also some advanced features like soft shadow, Goarud shading and Phong shading. The renderer will automatically rotate the camera around the origin point and use cornell-box as default model.
 
+Here is an iamge of cornell-box with one wall changed to glasses:
+
+
 The video shows features of render: 
 reflection			        0:00 - 0:07
 softshodow 		          0:07 - 0:13
