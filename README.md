@@ -33,5 +33,5 @@ some key to cotrol the render engine:
 
 After compile, the model will rotate automatically. You may want to change line 743 'bool draw = true' to 'bool draw = false' or press 'h' and use key 'm' and 'r' to render the model frame by frame. 'sphere' only have key control on camera and light.
 
-Here is another image of cornell-box with brdf:
+Here is another image of cornell-box with brdf, this is not coursework. I learn it from GAMES101 open courses:
 ![imagetext](https://github.com/Meikong-Cui/CG_coursework/blob/main/image/brdf.png)
