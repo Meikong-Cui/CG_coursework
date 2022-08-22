@@ -1,6 +1,6 @@
 # Computer Graphics coursework
 
-This coursework is a c++ renderer, which support not only rasterising and ray-tracing, but also some advanced features like soft shadow, Goarud shading and Phong shading. The renderer will automatically rotate the camera around the origin point and use cornell-box as default model.
+This UoB CG coursework is a c++ renderer, which support not only rasterising and ray-tracing, but also some advanced features like soft shadow, Goarud shading and Phong shading. The renderer will automatically rotate the camera around the origin point and use cornell-box as default model.
 
 Here is an iamge of cornell-box with one wall changed to glasses (low resolution because of coursework requirement):
 ![imagetext](https://github.com/Meikong-Cui/CG_coursework/blob/main/image/demo.png)
